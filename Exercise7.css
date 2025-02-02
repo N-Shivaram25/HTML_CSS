@@ -1,0 +1,48 @@
+.imag1{
+    border-radius: 25px;
+}
+.imag3{
+    border-radius: 300%;
+    
+    height: 230px;
+
+    object-fit: contain;
+    
+    object-position: top;
+    margin-left: 25px;
+}
+.search-box{
+    border-radius: 5px;
+    width: 250px;
+    font-size: 18px;
+}
+p{
+    margin-bottom: 2px;
+    
+}
+.i2
+{
+    margin-top: 0;
+    width: 380px;
+
+}
+.li_signup{
+    border-color: rgb(221, 52, 52);
+    border-width: 3px;
+    width: 500px;
+    padding: 25px 25px;
+    
+    background-color:white;
+    border-style:solid;
+}
+body{
+    background-color: antiquewhite;
+}
+button{
+background-color: rgb(22, 118, 227);
+color: white;
+width:380px;
+border-radius: 25px;
+height: 40px;
+border: none;
+}
