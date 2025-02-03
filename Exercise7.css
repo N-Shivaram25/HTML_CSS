@@ -48,15 +48,7 @@ p{
 body{
     background-color: antiquewhite;
 }
-button{
-background-color: rgb(22, 118, 227);
-color: white;
-width:380px;
-border-radius: 25px;
-height: 40px;
-border: none;
 
-}
 .search2{
     border-radius: 22px;
     border: none;
@@ -86,7 +78,16 @@ border: none;
     width: 120px;
     border-radius: 64px;
 }
-.tweet{
+.a_c{
+    background-color: rgb(22, 118, 227);
+    color: white;
+    width:380px;
+    border-radius: 25px;
+    height: 40px;
+    border: none;
+    
+    }
+.tweet-button{
     background-color: rgb(20, 124, 215);
     border-radius: 22px;
     color: white;
@@ -95,11 +96,70 @@ border: none;
     margin-left: 280px;
     margin-top: 35px;
     width: 100px;
+    height: 40px;
     cursor: pointer;
+    border: none;
+
 }
-.hap{
+.happen_txt{
     padding-top: 20px;
     margin-left: 25px;
     font-size: 20px;
     font-weight: bold;
+}
+.name_email{
+    height: 70px;
+    width: 380px;
+    border-color: black;
+    border-style: solid;
+    display: block;
+
+    line-height: 30px;
+    background-color: white;
+}
+input{
+    display: block;
+    margin:9px 0px 9px 0px;
+}
+.div4{
+    
+    background-color: white;
+    margin-top: 20px;
+    
+    display: inline-block;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    padding: 10px 10px ;
+    width:450px;
+    vertical-align: middle;
+
+
+}
+.Yes-button,.No-button{
+    margin: 20px 20px;
+    padding-top: 0;
+    
+   
+    margin-top: 15px;
+    margin-right: 2px;
+    margin-left: 2px;
+    width: 70px;
+    height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 50px;
+    
+    
+}   
+.Q_txt{
+    width: 190px; 
+    display: inline-block;
+    margin-right: 10px;
+    font-weight:500;
+    
+    
+    
+
+
 }
