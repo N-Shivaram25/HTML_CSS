@@ -1,0 +1,348 @@
+.div1{
+    width: 470px;
+    height: 120px;
+    border-style: solid;
+    border-color: orange;
+
+}
+.cat-thumbnail{
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+
+}
+.cat-img{
+    width: 60px;
+    height: 60px;
+    
+   
+   
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 10px;
+    display: inline-block;
+}
+.cat-info{
+    display: inline-block;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    margin-top: 20px;
+}
+.oliver{
+    font-family: Roboto ,sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+   
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    
+}
+.cat-sentence{
+    font-family: Roboto ,sans-serif;
+    color: grey;
+    
+    width: 80px;
+    line-height: 30px;
+    margin-top: 2px;
+    margin-bottom: 30px;
+    vertical-align: middle;
+    font-size: 25px;
+
+}
+.Follow{
+    color: white;
+    background-color: rgb(24, 118, 249);
+    width:120px ;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: Roboto ,sans-serif;
+    margin-left: 130px;
+    margin-bottom: 60px;
+    display: inline-block;
+    vertical-align: middle;
+   
+
+
+}
+.Follow-button{
+    margin: 0;
+    display: inline-block;
+    
+  
+
+}
+
+
+.chillboy,.redboy,.tiger{
+    width: 60px;
+    height: 60px;
+    border-radius: 89px;
+    margin-left: 10px;
+    margin-top: 30px;
+    display: inline-block;
+    margin-bottom: 15px;
+    
+}
+.div3cards{
+    margin-top: 10px;
+    width: 470px;
+    height: 340px;
+    border-style: solid;
+    border-color: orange;
+    display: inline-block;
+    margin-right: 350px;
+
+}
+.profile-imgs{
+    width: 70px;
+    display: inline-block;
+    margin-right: 2px;
+    
+  
+    
+}
+
+
+.profile-info{
+    width:180px;
+    display: inline-block;
+    padding-left: 20px;
+    
+   
+    margin-right: 20px;
+    vertical-align: top;
+}
+.info_1,.info_2,.info_3{
+    display: inline-block;
+}
+
+.info_1{
+  
+   
+    margin-bottom: 2px;
+    line-height: 20px;
+
+}
+.info_2{
+        
+        
+        margin-bottom: 2px;
+        line-height: 20px;
+}
+.info_3{
+  
+ 
+        margin-bottom: 2px;
+        line-height: 20px;
+
+}
+.Shela,.Mimi,.Rex{
+    font-family: Roboto ,sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    vertical-align: top;
+}
+.Shela{
+    margin-bottom: 2px;
+}
+.Mimi{
+    padding-right: 40px;
+    margin-bottom: 2px;
+}
+.Rex{
+    padding-right: 40px;
+    margin-bottom: 2px;
+}
+.c1{
+    font-family: Roboto ,sans-serif;
+    color: grey;
+    margin-top: 8px;
+   
+    font-size: 25px;
+    margin-bottom: 2px;
+}
+    
+.c2{
+    font-family: Roboto ,sans-serif;
+    color: grey;
+    margin-top: 8px;
+
+    font-size: 20px;
+    margin-bottom: 2px;
+
+}
+.buttons{
+
+ 
+    display: inline-block;
+    width: 150px;
+    
+    vertical-align: top;
+    padding-left: 0;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.Follows ,.Follows1,.Follows3{
+    color: white;
+    background-color: rgb(24, 118, 249);
+    width:120px ;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: Roboto ,sans-serif;
+    
+    display: inline-block;
+    margin-bottom: 55px;
+    
+}
+.Follows1{
+    margin-top: 40px;
+}
+.Follows3{
+    margin-bottom: 27px;
+}
+/********************************************************************************************/
+.youtube-layout{
+    margin-top: 20px;
+    width: 470px;
+    height: 380px;
+    border-style: solid;
+    border-color: orange;
+    display: inline-block;
+
+}
+.left-layout{
+    width:200px;
+    
+    display: inline-block;
+    margin-top: 5px;
+    vertical-align: top;
+    
+
+
+}
+.youtube-layout .left-layout img{
+    width:200px;
+    
+    border-radius:0px;
+    padding-left: 0px;
+    
+
+}
+.Right-layout{
+    width: 255px;
+    height: 368px;
+    padding-bottom: 10px;
+    display: inline-block;
+   
+
+}
+
+.alpha,.wb,.java{
+    margin-bottom: 8px;
+}
+.Right-info1 .para1,.Right-info2 .para1,.Right-info3 .para1{
+    font-family: Roboto ,sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    margin-bottom: 6px;
+}
+.Right-info1 .para1{
+    margin-top: 5px;
+}
+.Right-info1 .para2,.Right-info2 .para2,.Right-info3 .para2{
+    font-family: Roboto ,sans-serif;
+    color: grey;
+    font-size: 17px;
+    margin-top: 2px;
+    margin-bottom: 0;
+
+}
+.Right-info1 .para3,.Right-info2 .para3,.Right-info3 .para3{
+    font-family: Roboto ,sans-serif;
+    color: grey;
+    font-size: 17px;
+    margin-top: 3px;
+    margin-bottom: 39px;
+
+}
+.Right-info2 .para3{
+    margin-bottom: 32px;
+}
+.cards3{
+    margin-top: 20px;
+    border-style: solid;
+    border-color: orange;
+    display: inline-block;
+    padding-top: 0;
+    padding-right: 0;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    background-color:aliceblue;
+    
+
+}
+.div2{
+    margin-top: 20px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2),-3px -3px 5px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-right:100px;
+    padding-bottom: 8px;
+    
+}
+.mex{
+    width: 180px;
+    height: 200px;
+}
+.sub-div2{
+    padding-left: 8px;
+    }
+
+    .p_name{
+        font-size: large;
+        
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        padding-bottom: 0;
+        line-height: 1px;
+    
+    }
+    .p_frnds{
+        color: rgb(90, 90, 90);
+        display: inline-block;
+        vertical-align: top;
+        margin-top: 10px;
+    
+    }
+    .Add-Friend{
+        color: white;
+        background-color: rgb(35, 107, 241);
+        width: 115px;
+        height: 35px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        
+    
+    }    
+    .oliver-dp{
+        height: 40px;
+        width: 40px;
+        border-radius: 30px;
+        display: inline-block;
+    }
+    .oliver-info{
+        display: inline-block;
+    }
+    
+  
