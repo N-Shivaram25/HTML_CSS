@@ -9,6 +9,9 @@
     padding-top: 2px;
    
 }
+button{
+    cursor: pointer;
+}
 body{
     background-color: bisque;
 }
