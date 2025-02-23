@@ -1,3 +1,7 @@
+body{
+    background-color: aqua;
+}
+
 div {
     font-family: Arial;
   }
@@ -6,6 +10,7 @@ div {
     border-width: 1px;
     border-style: solid;
     border-color: rgb(200, 200, 200);
+    background-color: white;
     width: 300px;
     border-radius: 6px;
   }
@@ -31,4 +36,41 @@ div {
     border-radius: 20px;
     font-size: 14px;
     font-weight: bold;
+  }
+  .card{
+    border-style: solid;
+    border-color: rgb(244, 225, 15);
+    border-width: 2px;
+    width: 300px;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    
+  }
+  .left-card{
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    flex:1;
+    width: 50px;
+ 
+
+
+  }
+  img{
+    border-radius: 80px;
+    width: 30px;
+    height: 30px;
+    
+    margin-left: 10px;
+    margin-top: 5px;
+  
+  }
+  .middle-card{
+    border-style: solid;
+  }
+  .right-card{
+
+    border-style: solid;
   }
