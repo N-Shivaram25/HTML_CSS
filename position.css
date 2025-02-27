@@ -1,0 +1,29 @@
+.div1{
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    position: static;
+    margin-top: 50px;
+
+}
+.div2{
+    background-color: lightpink;
+    height: 200px;
+    width: 200px;
+
+}
+.header{
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 0;
+    height: 50px;
+    left: 0;
+    right: 0;
+    height: 50px;
+
+}
+body{
+    height: 3000px;
+    padding-top: 60px;
+}
