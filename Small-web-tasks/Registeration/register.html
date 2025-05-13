@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #f0f0f0, #d0d0d0);
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            width: 300px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .input-group {
+            margin-bottom: 15px;
+            text-align: left;
+        }
+        label {
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .submit-btn {
+            background: #4caf50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1em;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        .submit-btn:hover {
+            background: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <form action="success.html" method="get" class="card">
+        <h1>Registration Form</h1>
+        <div class="input-group">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Enter your Name" required>
+        </div>
+        <div class="input-group">
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email" placeholder="Enter your Email" required>
+        </div>
+        <div class="input-group">
+            <label for="phone">Phone:</label>
+            <input type="text" id="phone" name="phone" placeholder="Enter your Phone" required>
+        </div>
+        <div class="input-group">
+            <label for="address">Address:</label>
+            <input type="text" id="address" name="address" placeholder="Enter your Address" required>
+        </div>
+        <button type="submit" class="submit-btn">Submit</button>
+    </form>
+</body>
+</html>
